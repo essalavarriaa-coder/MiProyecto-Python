@@ -5,15 +5,15 @@ o	main.py: Archivo principal que contiene el punto de entrada del programa.
 o	modelos: Carpeta que contiene (si aplica) los archivos relacionados con los modelos de datos utilizados en el programa.
 o	servicios: Carpeta que contiene (si aplica) los archivos relacionados con los servicios o funciones del programa.
 2. Código Fuente del archivo main.py:
- 
-3. Intento de Ejecución:
+  <img width="567" height="259" alt="image" src="https://github.com/user-attachments/assets/89f3730c-210c-4b8c-8e18-6969c82f0ec7" />
+4. Intento de Ejecución:
 •	Para ejecutar el programa, abrí PowerShell, navegué hasta el directorio del proyecto "MiProyecto" utilizando el comando cd Desktop\MiProyecto y luego ejecuté el comando. python main.py
 
-4. Resultado Obtenido:
+5. Resultado Obtenido:
 •	Al intentar ejecutar el programa, obtuve el siguiente mensaje de error:
 
  
-5. Soluciones Intentadas:
+6. Soluciones Intentadas:
 •	Para solucionar el problema, intenté los siguientes pasos:
 1.	Reinstalación de Python: Desinstalé y volví a instalar Python 3.14.2 desde el sitio web oficial, asegurándome de marcar la casilla "Add python.exe to PATH" durante la instalación.
  
